@@ -1,4 +1,7 @@
-﻿/*  Author:     Jonathan Cruz
+﻿// this is a single-line comment
+/*  this is a multi-line comment
+ *  
+ *  Author:     Jonathan Cruz
  *  Course:     COMP-003A-L01
  *  Purpose:    Code for Assignment 1
  */
